@@ -1,3 +1,7 @@
 .pkl filter=lfs diff=lfs merge=lfs -text
 preprocessor.pkl filter=lfs diff=lfs merge=lfs -text
 pickles/preprocessor.pkl filter=lfs diff=lfs merge=lfs -text
+/playground-series-s4e12/.csv filter=lfs diff=lfs merge=lfs -text
+/playground-series-s4e12/train.csv filter=lfs diff=lfs merge=lfs -text
+/playground-series-s4e12/test.csv filter=lfs diff=lfs merge=lfs -text
+research_data/Cleaned_data.csv filter=lfs diff=lfs merge=lfs -text
