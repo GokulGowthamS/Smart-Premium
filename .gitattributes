@@ -1,3 +1,0 @@
-*.pkl,[[:space:]].csv filter=lfs diff=lfs merge=lfs -text
-playground-series-s4e12/** filter=lfs diff=lfs merge=lfs -text
-playground-series-s4e12/ filter=lfs diff=lfs merge=lfs -text
